@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+aside h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 75px;
+}
+aside h1 span {
+    color: #FF5678;
+}
+main{
+    width: 600px;
+    height: 520px;
+    border: 1px solid rgba(0, 0, 0, 0.95);
+    transition-pro
+}
+main h2 {
+    max-width: 430rem;
+    font-size: 3.6rem;
+}
+
